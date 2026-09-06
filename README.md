@@ -1,4 +1,4 @@
-Hi there 👋
+Hi, people! I'm Sviatazar!
 
 🔭 I’m currently working on my own projects
 
