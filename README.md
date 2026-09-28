@@ -20,21 +20,10 @@ Flutter · C++ · Go developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/xxxrobert138-netizen" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/OsmSva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-<a href="https://www.github.com/xxxrobert138-netizen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/xxxrobert138-netizen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxrobert138-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="xxxrobert138-netizen" /> </p>
+<a href="https://www.github.com/OsmSva" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/OsmSva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OsmSva&label=Profile%20views&color=0e75b6&style=flat" alt="OsmSva" /> </p>
 
-<a href="http://www.github.com/xxxrobert138-netizen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxrobert138-netizen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!--
-🔭 I’m currently working on my own Flutter projects
-🌱 I’m currently learning Go and Programming for Microcontrollers
-- 👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with Cross platform projects
-💬 Ask me about Flutter, C++ and Algorithms for Olymps
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/OsmSva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmSva&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
